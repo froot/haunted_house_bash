@@ -1,0 +1,3 @@
+sword: 2 wood_plank 3 metal_scrap
+ladder: 3 wood_plank 3 nail
+crystal_ball: 3 glass_shard 5 metal_scrap

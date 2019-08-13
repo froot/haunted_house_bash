@@ -1,0 +1,6 @@
+living_room
+bathroom
+kitchen
+upstairs_bathroom
+closet
+bedroom

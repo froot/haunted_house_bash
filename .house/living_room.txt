@@ -1,0 +1,5 @@
+wire
+pot
+cat
+nail
+wood_plank
